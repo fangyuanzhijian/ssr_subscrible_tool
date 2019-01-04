@@ -2,7 +2,7 @@
 
 # joyo.ga节点1
 
-ssr://MTAzLjEyMS4yMDkuMTA6MzUwOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpNVEl6TVRJeg
+ssr://MTQ0LjQ4LjcuMjA1OjM1MDphdXRoX2NoYWluX2E6YWVzLTI1Ni1jZmI6cGxhaW46Y1dGNk1USXpNVEl6Lz9vYmZzcGFyYW09
 
 # joyo.ga节点2
 ssr://MTQ0LjQ4LjcuMjA1OjM3NDQ6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOk1USXpNVEl6
