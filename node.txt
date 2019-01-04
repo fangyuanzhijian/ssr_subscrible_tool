@@ -1,7 +1,8 @@
 # 节点列表
-# joya.ga节点1
+
+# joyo.ga节点1
 
 ssr://MTAzLjEyMS4yMDkuMTA6MzUwOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpNVEl6TVRJeg
-# joya.ga节点2
 
+# joyo.ga节点2
 ssr://MTQ0LjQ4LjcuMjA1OjM3NDQ6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOk1USXpNVEl6
